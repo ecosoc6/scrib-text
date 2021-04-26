@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="12" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Liberation Serif Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Artifex CMYK SWOP Profile" DPIn="Apple RGB" DPInCMYK="Artifex CMYK SWOP Profile" DPIn2="Apple RGB" DPIn3="Artifex CMYK SWOP Profile" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="2220000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" FONT="Nimbus Roman Regular"/>
+        <STYLE NAME="Section_head" LINESP="19.4" OpticalMargins="14" MinWordTrack="1" MaxGlyphExtend="1" FONT="Liberation Serif Regular" FONTSIZE="18" KERN="4" LANGUAGE="en_US"/>
+        <STYLE NAME="page_head" FONT="Liberation Serif Regular" FONTSIZE="18" LANGUAGE="en_US"/>
+        <STYLE NAME="footnote" LINESP="11" FONTSIZE="10" LANGUAGE="en_US"/>
+        <STYLE NAME="importer_Index" LINESPMode="0" LINESP="17.28" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="importer_Text_20_body" LINESPMode="0" LINESP="14.4" VOR="0" NACH="7.001574803" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="importer_P4" ALIGN="3" LINESPMode="0" LINESP="14.4" INDENT="33.9874015748032" FIRST="0" VOR="0" NACH="7.00157480314961" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="quotation" PARENT="Default Paragraph Style" ALIGN="3" INDENT="18" RMARGIN="17" FIRST="0">
+            <Tabs Type="0" Pos="1" Fill=""/>
+        </STYLE>
+        <STYLE NAME="importer_P7" ALIGN="3" LINESPMode="0" LINESP="17.28" INDENT="31.2094488188976" FIRST="0" VOR="0" NACH="7.00157480314961" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="importer_P9" LINESPMode="0" LINESP="17.28" INDENT="31.2094488188976" FIRST="0" VOR="0" NACH="7.00157480314961" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="chapter_head" LINESP="25" FONTSIZE="23" LANGUAGE="en_US"/>
+        <STYLE NAME="a_usual_para" ALIGN="3" LANGUAGE="en_US"/>
+        <STYLE NAME="page_header" FONT="Liberation Serif Regular" FONTSIZE="14" FONTFEATURES="-clig,-liga" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <TableStyle NAME="table_of_contents"/>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <MultiLine Name="slim_line">
+            <SubLine Color="Black" Shade="100" Dash="1" LineEnd="0" LineJoin="0" Width="0.03" Shortcut=""/>
+        </MultiLine>
+        <MultiLine Name="thin_line">
+            <SubLine Color="Cool Black" Shade="100" Dash="1" LineEnd="32" LineJoin="0" Width="0.3" Shortcut=""/>
+        </MultiLine>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="0" PDLanguage="0" markLength="0" markOffset="-3.77789088045271e+24" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents>
+            <TableOfContents Name="Table of Contents 1" ItemAttributeName="None" FrameName="None" ListNonPrinting="0" Style="None" NumberPlacement="End"/>
+        </TablesOfContents>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="early page" From="0" To="2" Type="Type_None" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="1" Name="prefaces" From="3" To="11" Type="Type_i_ii_iii" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="New Master Page 2" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="Main_left_ch1" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="Ch 1 right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="Ch 2 right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="Ch 3 right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="front_section_left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="front_section_right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="20" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="672" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="672" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1324" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="1324" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1976" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="1976" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2628" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="2628" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3280" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="496" PAGEYPOS="3280" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3932" PAGEWIDTH="396" PAGEHEIGHT="612" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="139" YPOS="61.5" OwnPage="2" ItemID="697257275" PTYPE="4" WIDTH="315.75" HEIGHT="194.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L315.75 0 L315.75 194.75 L0 194.75 L0 0 Z" copath="M0 0 L315.75 0 L315.75 194.75 L0 194.75 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH="In these circumstances, in view of the unprecedently wide-spread distortion of Marxism, our prime task is to re-establish what Marx really taught on the subject of the state. This will necessitate a number of long quotations from the works of Marx and Engels themselves. Of course, long quotations will render the text cumbersome and not help at all to make it popular reading, but we cannot possibly dispense with them. All, or at any rate all the most essential passages in the works of Marx and Engels on the subject of the state must by all means be quoted as fully as possible so that the reader may form an independent opinion of the totality of the views of the founders of scientific socialism, and of the evolution of those views, and so that their distortion by the “Kautskyism” now prevailing may be"/>
+                <para ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="136" YPOS="256.5" OwnPage="2" ItemID="697322523" PTYPE="4" WIDTH="317.5" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L317.5 0 L317.5 24 L0 24 L0 0 Z" copath="M0 0 L317.5 0 L317.5 24 L0 24 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH=" documentarily proved and clearly demonstrated."/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="140" YPOS="282.25" OwnPage="2" ItemID="697338859" PTYPE="4" WIDTH="315.75" HEIGHT="72.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L315.75 0 L315.75 72.75 L0 72.75 L0 0 Z" copath="M0 0 L315.75 0 L315.75 72.75 L0 72.75 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH="Let us begin with the most popular of Engels’ works,"/>
+                <ITEXT FONT="Nimbus Roman Italic" CH=" The Origin of the Family, Private Property and the State"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH=", the sixth edition of which was published in Stuttgart as far back as 1894. We have to translate the quotations from the German originals, as the Russian translations, while very numerous, are for the most part"/>
+                <para ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="140" YPOS="356.75" OwnPage="2" ItemID="698097611" PTYPE="4" WIDTH="315.75" HEIGHT="15.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L315.75 0 L315.75 15.75 L0 15.75 L0 0 Z" copath="M0 0 L315.75 0 L315.75 15.75 L0 15.75 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH="either incomplete or very unsatisfactory."/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="140" YPOS="382.75" OwnPage="2" ItemID="698207995" PTYPE="4" WIDTH="316" HEIGHT="24.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316 0 L316 24.75 L0 24.75 L0 0 Z" copath="M0 0 L316 0 L316 24.75 L0 24.75 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH="Summing up his historical analysis, Engels says: "/>
+                <para ALIGN="0"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="153.75" YPOS="410" OwnPage="2" ItemID="698413259" PTYPE="4" WIDTH="291.25" HEIGHT="180" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L291.25 0 L291.25 180 L0 180 L0 0 Z" copath="M0 0 L291.25 0 L291.25 180 L0 180 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" FONTSIZE="12" CH="“The state is, therefore, by no means a power forced on society from without; just as little is it ‘the reality of the ethical idea’, ‘the image and reality of reason’, as Hegel maintains. Rather, it is a product of society at a certain stage of development; it is the admission that this society has become entangled in an insoluble contradiction with itself, that it has split into irreconcilable antagonisms which it is powerless to dispel. But in order that these antagonisms, these classes with conflicting economic interests, might not consume themselves and society in fruitless struggle, it became necessary to have a power, seemingly standing above society, that would alleviate the conflict and keep it"/>
+                <para ALIGN="4"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="118" YPOS="41.75" OwnPage="2" ItemID="698373931" PTYPE="4" WIDTH="16" HEIGHT="24.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L16 0 L16 24.25 L0 24.25 L0 0 Z" copath="M0 0 L16 0 L16 24.25 L0 24.25 L0 0 Z" OnMasterPage="New Master Page 2" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Norasi Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Nimbus Roman Regular" CH="2"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="124.5" YPOS="53.25" OwnPage="3" ItemID="698462939" PTYPE="4" WIDTH="22.5" HEIGHT="22.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" copath="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" OnMasterPage="Main_left_ch1" gXpos="555984" gYpos="5602840076" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="147" YPOS="53.25" OwnPage="3" ItemID="698422299" PTYPE="4" WIDTH="301.5" HEIGHT="17.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L301.5 0 L301.5 17.25 L0 17.25 L0 0 Z" copath="M0 0 L301.5 0 L301.5 17.25 L0 17.25 L0 0 Z" OnMasterPage="Main_left_ch1" gXpos="555984" gYpos="5602840076" gWidth="0" gHeight="0" PSTYLE="page_head" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="page_head"/>
+                <ITEXT FONTSIZE="14" CH="State and Revolution"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="208.748404493652" YPOS="70.75" OwnPage="3" ItemID="698449179" PTYPE="5" WIDTH="176.277125572208" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" OnMasterPage="Main_left_ch1" gXpos="555984" gYpos="5602840076" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="213.75" YPOS="51.75" OwnPage="4" ItemID="698435995" PTYPE="4" WIDTH="167" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L167 0 L167 18 L0 18 L0 0 Z" copath="M0 0 L167 0 L167 18 L0 18 L0 0 Z" OnMasterPage="Ch 1 right" gXpos="33591888" gYpos="580732488" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Class Society and the State"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="203.245748939133" YPOS="68.7500000000001" OwnPage="4" ItemID="698900555" PTYPE="5" WIDTH="183.779781160867" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" OnMasterPage="Ch 1 right" gXpos="33591888" gYpos="580732488" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="443.5" YPOS="54.25" OwnPage="4" ItemID="698895563" PTYPE="4" WIDTH="22.5" HEIGHT="22.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" copath="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" OnMasterPage="Ch 1 right" gXpos="33591888" gYpos="580732488" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="213.75" YPOS="51.75" OwnPage="5" ItemID="698941707" PTYPE="4" WIDTH="167" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L167 0 L167 18 L0 18 L0 0 Z" copath="M0 0 L167 0 L167 18 L0 18 L0 0 Z" OnMasterPage="Ch 2 right" gXpos="67354056" gYpos="2473588244" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="The Experience of 18"/>
+                <ITEXT FONTSIZE="14" CH="48-51"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="203.245748939133" YPOS="68.7500000000001" OwnPage="5" ItemID="698962427" PTYPE="5" WIDTH="183.779781160867" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" OnMasterPage="Ch 2 right" gXpos="67354056" gYpos="2473588244" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="443.5" YPOS="54.25" OwnPage="5" ItemID="699055739" PTYPE="4" WIDTH="22.5" HEIGHT="22.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" copath="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" OnMasterPage="Ch 2 right" gXpos="67354056" gYpos="2473588244" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="190" YPOS="51.75" OwnPage="6" ItemID="699061963" PTYPE="4" WIDTH="231.804511278195" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L231.805 0 L231.805 18 L0 18 L0 0 Z" copath="M0 0 L231.805 0 L231.805 18 L0 18 L0 0 Z" OnMasterPage="Ch 3 right" gXpos="44488224" gYpos="2130278296" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Experience of the Paris Commune"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="181.939779155989" YPOS="68.75" OwnPage="6" ItemID="698977259" PTYPE="5" WIDTH="221.084459075524" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" OnMasterPage="Ch 3 right" gXpos="44488224" gYpos="2130278296" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="443.5" YPOS="54.25" OwnPage="6" ItemID="698978411" PTYPE="4" WIDTH="22.5" HEIGHT="22.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" copath="M0 0 L22.5 0 L22.5 22.5 L0 22.5 L0 0 Z" OnMasterPage="Ch 3 right" gXpos="44488224" gYpos="2130278296" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Nimbus Roman Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno"/>
+                <para/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="135.571428571429" YPOS="58.5" OwnPage="7" ItemID="699013931" PTYPE="4" WIDTH="33.2142857142857" HEIGHT="31.0714285714286" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L33.2143 0 L33.2143 31.0714 L0 31.0714 L0 0 Z" copath="M0 0 L33.2143 0 L33.2143 31.0714 L0 31.0714 L0 0 Z" OnMasterPage="front_section_left" gXpos="135.571428571429" gYpos="58.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="452.428571428572" YPOS="56.9285714285714" OwnPage="8" ItemID="699037739" PTYPE="4" WIDTH="32.1428571428571" HEIGHT="34.2857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L32.1429 0 L32.1429 34.2857 L0 34.2857 L0 0 Z" copath="M0 0 L32.1429 0 L32.1429 34.2857 L0 34.2857 L0 0 Z" OnMasterPage="front_section_right" gXpos="452.428571428572" gYpos="56.9285714285714" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="128" YPOS="2662.75" OwnPage="7" ItemID="699080731" PTYPE="4" WIDTH="16" HEIGHT="24.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L16 0 L16 24.25 L0 24.25 L0 0 Z" copath="M0 0 L16 0 L16 24.25 L0 24.25 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Nimbus Roman Regular"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="960.75" YPOS="9577.75" OwnPage="-1" ItemID="699073819" PTYPE="4" WIDTH="100" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100 0 L100 100 L0 100 L0 0 Z" copath="M0 0 L100 0 L100 100 L0 100 L0 0 Z" gXpos="960.75" gYpos="9577.75" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="957.75" YPOS="8979.75" OwnPage="-1" ItemID="699099675" PTYPE="4" WIDTH="100" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100 0 L100 100 L0 100 L0 0 Z" copath="M0 0 L100 0 L100 100 L0 100 L0 0 Z" gXpos="957.75" gYpos="8979.75" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="255" YPOS="353" OwnPage="0" ItemID="699092971" PTYPE="2" WIDTH="323.75" HEIGHT="117.857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB IEC61966-2.1" IRENDER="0" path="M0 0 L323.75 0 L323.75 117.857 L0 117.857 L0 0 Z" copath="M0 0 L323.75 0 L323.75 117.857 L0 117.857 L0 0 Z" gXpos="255" gYpos="353" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="538.821428571429" YPOS="132.857142857143" OwnPage="0" ItemID="699182891" PTYPE="4" WIDTH="313.928571428572" HEIGHT="79.2857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L313.929 0 L313.929 79.2857 L0 79.2857 L0 0 Z" copath="M0 0 L313.929 0 L313.929 79.2857 L0 79.2857 L0 0 Z" gXpos="538.821428571429" gYpos="132.857142857143" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Gayathri Regular" FONTSIZE="60" FCOLOR="Warm Black" FSHADE="100" CH="The State"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="577.692857142846" YPOS="230" OwnPage="0" ItemID="699174459" PTYPE="4" WIDTH="210" HEIGHT="81.7857142857143" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L210 0 L210 81.7857 L0 81.7857 L0 0 Z" copath="M0 0 L210 0 L210 81.7857 L0 81.7857 L0 0 Z" gXpos="577.692857142846" gYpos="230" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Gayathri Regular" FONTSIZE="60" CH="and"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="569.892857142857" YPOS="310.714285714286" OwnPage="0" ItemID="699196059" PTYPE="4" WIDTH="296.107142857143" HEIGHT="136.071428571429" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L296.107 0 L296.107 136.071 L0 136.071 L0 0 Z" copath="M0 0 L296.107 0 L296.107 136.071 L0 136.071 L0 0 Z" gXpos="569.892857142857" gYpos="310.714285714286" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Gayathri Regular" FONTSIZE="60" CH="Revolution"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="595.75" YPOS="466.1875" OwnPage="0" ItemID="699191355" PTYPE="4" WIDTH="250.3125" HEIGHT="49.6875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.313 0 L250.313 49.6875 L0 49.6875 L0 0 Z" copath="M0 0 L250.313 0 L250.313 49.6875 L0 49.6875 L0 0 Z" gXpos="595.75" gYpos="466.1875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Purisa Regular" FONTSIZE="20" CH="Vladimir  Lenin"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="542.75" YPOS="885.75" OwnPage="2" ItemID="699151675" PTYPE="4" WIDTH="299.25" HEIGHT="152.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L299.25 0 L299.25 152.25 L0 152.25 L0 0 Z" copath="M0 0 L299.25 0 L299.25 152.25 L0 152.25 L0 0 Z" gXpos="542.75" gYpos="885.75" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="18" CH="The Marxist Theory of the State and the Tasks of the Proletariat in the Revolution"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="539.25" YPOS="754.5" OwnPage="2" ItemID="699314123" PTYPE="4" WIDTH="121.75" HEIGHT="111.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L121.75 0 L121.75 111.75 L0 111.75 L0 0 Z" copath="M0 0 L121.75 0 L121.75 111.75 L0 111.75 L0 0 Z" gXpos="539.25" gYpos="754.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="20" CH="The State and Revolution"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="598.300000000002" YPOS="1098" OwnPage="2" ItemID="699160507" PTYPE="4" WIDTH="191" HEIGHT="28" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L191 0 L191 28 L0 28 L0 0 Z" copath="M0 0 L191 0 L191 28 L0 28 L0 0 Z" gXpos="598.300000000002" gYpos="1098" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" FONTSIZE="14.6" CH="Vladimir Ilyich Lenin"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="617.7" YPOS="1179.2" OwnPage="2" ItemID="699284043" PTYPE="4" WIDTH="183" HEIGHT="16.8000000000029" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L183 0 L183 16.8 L0 16.8 L0 0 Z" copath="M0 0 L183 0 L183 16.8 L0 16.8 L0 0 Z" gXpos="617.7" gYpos="1179.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="Free Communist Books"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="703.200000000015" YPOS="1202" OwnPage="2" ItemID="699291275" PTYPE="4" WIDTH="87" HEIGHT="28" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L87 0 L87 28 L0 28 L0 0 Z" copath="M0 0 L87 0 L87 28 L0 28 L0 0 Z" gXpos="703.200000000015" gYpos="1202" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="1917 / 2021"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.9" YPOS="1424" OwnPage="3" ItemID="699385307" PTYPE="4" WIDTH="306" HEIGHT="417" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L306 0 L306 417 L0 417 L0 0 Z" copath="M0 0 L306 0 L306 417 L0 417 L0 0 Z" gXpos="140.9" gYpos="1424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="Written:  August - September, 1917"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="First published:  1918"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="Online version:"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <para/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="PDF book version:  Norm Knight, 2021"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="266.899999999999" YPOS="1484.7" OwnPage="3" ItemID="699444683" PTYPE="4" WIDTH="184" HEIGHT="183.905263157891" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184 0 L184 183.905 L0 183.905 L0 0 Z" copath="M0 0 L184 0 L184 183.905 L0 183.905 L0 0 Z" gXpos="266.899999999999" gYpos="1484.7" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Courier 10 Pitch Regular" CH="From Marx to Mao (www.marx3mao.com) and Marxist Internet Archive (marxists.org) 1993, 1999.  Transcription/Markup by David J Romagnolo (Marx  to Mao);  and Zodiac and Brian Baggins (MIA).  Source: V I Lenin, Collected Works, Volume 25 (1964), pp. 381-492"/>
+                <trail ALIGN="3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="545" YPOS="1360" OwnPage="4" ItemID="699588187" PTYPE="4" WIDTH="293" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L293 0 L293 27 L0 27 L0 0 Z" copath="M0 0 L293 0 L293 27 L0 27 L0 0 Z" gXpos="545" gYpos="1360" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Contents"/>
+                <trail PARENT="chapter_head" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="538" YPOS="1434.55263157895" OwnPage="4" ItemID="699565611" PTYPE="4" WIDTH="175.5" HEIGHT="415.263157894737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L175.5 0 L175.5 415.263 L0 415.263 L0 0 Z" copath="M0 0 L175.5 0 L175.5 415.263 L0 415.263 L0 0 Z" gXpos="538" gYpos="1434.55263157895" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="699678219" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Introductory Not"/>
+                <ITEXT CH="es"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Preface to the First Edition"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Preface to the Second Edition"/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter I.  Class Society and the State"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    4."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter II.  The Experience of 1848-51"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter III.  Experience of the Paris Commune of 1871.  Marx's Analysis"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    4."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    5."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter IV.  Continuation.  Supplementary Explanations by Engels"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    4. "/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    5."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    6."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter V.  The Economic Basis of the Withering Away of the State"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    4."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Chapter VI.  The Vulgarisation of Marxism by the Opportunists"/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    1."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    2."/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="    3."/>
+                <para/>
+                <para/>
+                <ITEXT FONTSIZE="12.6" SCALEV="100" CH="Postscript to the First Edition"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.5" YPOS="2049" OwnPage="5" ItemID="699678219" PTYPE="4" WIDTH="172.894736842105" HEIGHT="437.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L172.895 0 L172.895 437.5 L0 437.5 L0 0 Z" copath="M0 0 L172.895 0 L172.895 437.5 L0 437.5 L0 0 Z" gXpos="141.5" gYpos="2049" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="699565611"/>
+        <PAGEOBJECT XPOS="728.078947368421" YPOS="1430.97368421053" OwnPage="4" ItemID="699670187" PTYPE="4" WIDTH="30.7894736842106" HEIGHT="438.026315789474" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L30.7895 0 L30.7895 438.026 L0 438.026 L0 0 Z" copath="M0 0 L30.7895 0 L30.7895 438.026 L0 438.026 L0 0 Z" gXpos="728.078947368421" gYpos="1430.97368421053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONTSIZE="12.6" CH="vi"/>
+                <para ALIGN="2"/>
+                <para ALIGN="2"/>
+                <ITEXT FONTSIZE="12.6" CH="i"/>
+                <ITEXT CH="x"/>
+                <para ALIGN="2"/>
+                <para ALIGN="2"/>
+                <ITEXT FONTSIZE="12.6" CH="x"/>
+                <ITEXT CH="i"/>
+                <para ALIGN="2"/>
+                <para ALIGN="2"/>
+                <para ALIGN="2"/>
+                <ITEXT CH="1"/>
+                <para ALIGN="2"/>
+                <ITEXT CH="1"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.394736842105" YPOS="3315.55263157895" OwnPage="9" ItemID="699495851" PTYPE="4" WIDTH="312.631578947368" HEIGHT="30.7894736842104" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L312.632 0 L312.632 30.7895 L0 30.7895 L0 0 Z" copath="M0 0 L312.632 0 L312.632 30.7895 L0 30.7895 L0 0 Z" gXpos="145.394736842105" gYpos="3315.55263157895" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Preface to the First Edition"/>
+                <trail PARENT="chapter_head" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="573.552631578947" YPOS="2014.55263157895" OwnPage="6" ItemID="700232235" PTYPE="4" WIDTH="240.789473684211" HEIGHT="55.2631578947367" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.789 0 L240.789 55.2632 L0 55.2632 L0 0 Z" copath="M0 0 L240.789 0 L240.789 55.2632 L0 55.2632 L0 0 Z" gXpos="573.552631578947" gYpos="2014.55263157895" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Note from Marxist Internet Archive"/>
+                <trail PARENT="chapter_head" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="541" YPOS="2079.13157894737" OwnPage="6" ItemID="700214299" PTYPE="4" WIDTH="310" HEIGHT="468.947368421053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L310 0 L310 468.947 L0 468.947 L0 0 Z" copath="M0 0 L310 0 L310 468.947 L0 468.947 L0 0 Z" gXpos="541" gYpos="2079.13157894737" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="700360251" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Lenin wrote "/>
+                <ITEXT FONT="Nimbus Roman Italic" CH="The State and Revolution"/>
+                <ITEXT CH=" in August and September 1917, when he was in hiding from persecution of the Provisional Government. The need for such a theoretical work as this was mentioned by Lenin in the second half of 1916. It was then that he wrote his note on &quot;The Youth International&quot;, in which he criticised Bukharin's position on the question of the state and promised to write a detailed article on what he thought to be the Marxist attitude to the state. In a letter to A. M. Kollontai on February 17 (N.S.), 1917, he said that he had almost got ready material on that question . This material was written in a small blue-covered notebook headed &quot;Marxism on the State&quot;. In it Lenin had collected quotations from the works of Marx and Engels, and extracts from the books by Kautsky, Pannekoek and Bernstein with his own critical notes, conclusions and generalisations."/>
+                <para/>
+                <para/>
+                <ITEXT CH="When Lenin left Switzerland for Russia in April 1917, he feared arrest by the Provisional Government and left the manuscript of &quot;Marxism on the State&quot; behind — as it would have been destroyed had he been caught. When in hiding after the July events, Lenin wrote in a note: "/>
+                <para/>
+                <para/>
+                <ITEXT CH="&quot;Entre nous, if I am knocked off, I ask you to publish my notebook 'Marxism on the State' (it got held up in Stockholm). It is bound in a blue cover. All the quotations from Marx and Engels are collected there, also those from Kautsky against Pannekoek. There are a number of remarks, notes and formulas. I think a week's work would be enough to publish it. I consider it important because not only Plekhanov, but Kautsky, too, is confused....&quot; When Lenin received his notebook from Stockholm, he used the material he had collected as a basis for his book The State and Revolution."/>
+                <para PARENT="quotation"/>
+                <para/>
+                <ITEXT CH="According to Lenin's plan, "/>
+                <ITEXT FONT="Nimbus Roman Italic" CH="The State and Revolution"/>
+                <ITEXT CH=" was to have consisted of seven chapters, but he did not write the seventh, &quot;The Experience of the Russian Revolutions of 1905 and 1917&quot;, and only a detailed plan has remained. In a note to the publisher Lenin wrote that if he &quot;was too slow in competing this, the seventh chapter, or should it turn out to be too bulky, the first six chapters should be published separately as Book One.&quot; "/>
+                <para/>
+                <para/>
+                <ITEXT CH="Originally, the name F.F. Ivanovsky is shown on the first page of the notebook manuscript as that of the author. Lenin intended to publish the book under that pseudonym, otherwise the Provisional Government would have confiscated it for his name alone. The book, however, was not printed until 1918, when there was no longer any need for the pseudonym. The second edition appeared in 1919; in this revision Lenin added to Chapter II a new section &quot;The Presentation of the Question by Marx in 1852&quot;. "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.526315789474" YPOS="2703" OwnPage="7" ItemID="700360251" PTYPE="4" WIDTH="311.052631578947" HEIGHT="323.052631578948" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L311.053 0 L311.053 323.053 L0 323.053 L0 0 Z" copath="M0 0 L311.053 0 L311.053 323.053 L0 323.053 L0 0 Z" gXpos="140.526315789474" gYpos="2703" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="700214299"/>
+        <PAGEOBJECT XPOS="141.631578947368" YPOS="3366.5625" OwnPage="9" ItemID="700353339" PTYPE="4" WIDTH="307.430921052632" HEIGHT="379.6875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L307.431 0 L307.431 379.688 L0 379.688 L0 0 Z" copath="M0 0 L307.431 0 L307.431 379.688 L0 379.688 L0 0 Z" gXpos="141.631578947368" gYpos="3366.5625" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="704828315" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH=" The question of the state is now acquiring particular importance both in theory and in practical politics. The imperialist war has immensely accelerated and intensified the process of transformation of monopoly capitalism into state-monopoly capitalism. The monstrous oppression of the working people by the state, which is merging more and more with the all-powerful capitalist associations, is becoming increasingly monstrous. The advanced countries - we mean their hinterland - are becoming military convict prisons for the workers."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The unprecedented horrors and miseries of the protracted war are making the people's position unbearable and increasing their anger. The world proletarian revolution is clearly maturing. The question of its relation to the state is acquiring practical importance."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The elements of opportunism that accumulated over the decades of comparatively peaceful development have given rise to the trend of social-chauvinism which dominated the official socialist parties throughout the world. This trend - socialism in words and chauvinism in deeds (Plekhanov, Potresov, Breshkovskaya, Rubanovich, and, in a slightly veiled form, Tsereteli, Chernov and Co. in Russia; Scheidemann. Legien, David and others in Germany; Renaudel, Guesde and Vandervelde in France and Belgium; Hyndman and the Fabians* in England, etc., etc.) - is conspicuous for the base, servile adaptation of the &quot;leaders of socialism&quot; to the interests not only of &quot;their&quot; national bourgeoisie, but of &quot;their&quot; state, for the majority of the so-called Great Powers have long been exploiting and enslaving a whole number of small and weak nations. And the imperialist war is a war for the division and redivision of this kind of booty. The struggle to free the working people from the influence of the bourgeoisie in general, and of the imperialist bourgeoisie in particular, is impossible without a struggle against opportunist prejudices concerning the &quot;state&quot;."/>
+                <para/>
+                <para/>
+                <ITEXT CH="First of all we examine the theory of Marx and Engels of the state, and dwell in particular detail on those aspects of this theory which are ignored or have been distorted by the opportunists. Then we deal specially with the one who is chiefly responsible for these distortions, Karl Kautsky, the best-known leader of the Second International (1889-1914), which has met with such miserable bankruptcy in the present war. Lastly, we sum up the main results of the experience of the Russian revolutions of 1905 and particularly of 1917. Apparently, the latter is now (early August 1917) completing the first stage of its development; but this revolution as a whole can only be understood as a link in a chain of socialist proletarian revolutions being caused by the imperialist war. The question of the relation of the socialist proletarian revolution to the state, therefore, is acquiring not only practical political importance, but also the significance of a most urgent problem of the day, the problem of explaining to the masses what they will have to do before long to free themselves from capitalist tyranny."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The Author"/>
+                <para/>
+                <para/>
+                <ITEXT CH="August 1917 "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="574.105263157895" YPOS="2667" OwnPage="8" ItemID="700308107" PTYPE="4" WIDTH="244.269736842105" HEIGHT="24" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L244.27 0 L244.27 24 L0 24 L0 0 Z" copath="M0 0 L244.27 0 L244.27 24 L0 24 L0 0 Z" gXpos="574.105263157895" gYpos="2667" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Note on PDF book version"/>
+                <trail PARENT="chapter_head"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="544.6875" YPOS="2717.94736842105" OwnPage="8" ItemID="702490251" PTYPE="4" WIDTH="307.628289473685" HEIGHT="253.05263157895" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L307.628 0 L307.628 253.053 L0 253.053 L0 0 Z" copath="M0 0 L307.628 0 L307.628 253.053 L0 253.053 L0 0 Z" gXpos="544.6875" gYpos="2717.94736842105" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="This is a conversion of the Marxist Internet Archive's html files into more traditional book format.  It is hoped that it will be attractive when printed; it may also be viewed onscreen."/>
+                <para/>
+                <para/>
+                <ITEXT CH="Some optical-character-recognition errors in the MIA files have been removed, but italicisation was transferred by hand and it is likely that some italicisation has been lost. The biggest change is that the footnote references have been converted to a more universal form.  References are to chapter, section and, where convenient, paragraph number, rather than to page number as in MIA and previous editions.  Page number references are difficult for the reader to follow unless she has the  particular edition being referenced.  The universal reference form is intended to make the references useful to a wider range of people."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="168" YPOS="2663.625" OwnPage="7" ItemID="704269691" PTYPE="4" WIDTH="255.625" HEIGHT="15.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.625 0 L255.625 15.75 L0 15.75 L0 0 Z" copath="M0 0 L255.625 0 L255.625 15.75 L0 15.75 L0 0 Z" gXpos="168" gYpos="2663.625" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Liberation Serif Regular" FONTSIZE="14" CH="Note from Marxist Internet Archive"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="209.65" YPOS="2685.5" OwnPage="7" ItemID="704455995" PTYPE="7" WIDTH="175.25" HEIGHT="-0.25" RADRECT="-2" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L175.25 -0.25 " copath="M0 2.25 L175.25 2 L0 2.25 Z" gXpos="4.4" gYpos="661.5" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="537.1875" YPOS="3356.25" OwnPage="10" ItemID="704828315" PTYPE="4" WIDTH="313.8125" HEIGHT="347.8125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L313.813 0 L313.813 347.813 L0 347.813 L0 0 Z" copath="M0 0 L313.813 0 L313.813 347.813 L0 347.813 L0 0 Z" gXpos="537.1875" gYpos="3356.25" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="704847851" BACKITEM="700353339"/>
+        <PAGEOBJECT XPOS="573.75" YPOS="3314.0625" OwnPage="10" ItemID="704459195" PTYPE="4" WIDTH="240" HEIGHT="15.9375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240 0 L240 15.9375 L0 15.9375 L0 0 Z" copath="M0 0 L240 0 L240 15.9375 L0 15.9375 L0 0 Z" gXpos="573.75" gYpos="3314.0625" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Preface to the First Edition"/>
+                <trail PARENT="page_header" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="603.75" YPOS="3333.5" OwnPage="10" ItemID="704793739" PTYPE="7" WIDTH="175.25" HEIGHT="-0.25" RADRECT="-2" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L175.25 -0.25 " copath="M0 2.25 L175.25 2 L0 2.25 Z" gXpos="2.5" gYpos="657.5" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="142.5625" YPOS="4267" OwnPage="11" ItemID="704795627" PTYPE="4" WIDTH="311.25" HEIGHT="32.375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L311.25 0 L311.25 32.375 L0 32.375 L0 0 Z" copath="M0 0 L311.25 0 L311.25 32.375 L0 32.375 L0 0 Z" gXpos="142.5625" gYpos="4267" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Preface to the Second Edition"/>
+                <trail PARENT="chapter_head" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141" YPOS="3997.6875" OwnPage="11" ItemID="704877243" PTYPE="4" WIDTH="315.625" HEIGHT="154.3125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L315.625 0 L315.625 154.313 L0 154.313 L0 0 Z" copath="M0 0 L315.625 0 L315.625 154.313 L0 154.313 L0 0 Z" gXpos="141" gYpos="3997.6875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="166.75" YPOS="3770" OwnPage="9" ItemID="704892539" PTYPE="4" WIDTH="261.25" HEIGHT="92.1875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L261.25 0 L261.25 92.1875 L0 92.1875 L0 0 Z" copath="M0 0 L261.25 0 L261.25 92.1875 L0 92.1875 L0 0 Z" gXpos="166.75" gYpos="3770" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="704871659" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Fabians--members of the Fabian Society, a British reformist organisation founded in 1884. It grouped mostly bourgeois intellectuals--scholars, writers, politicians--including Sydney and Beatrice Webb, Ramsay MacDonald and Bernard Shaw. The Fabians denied the necessity for the proletarian class struggle and for the socialist revolution. They contended that the transition from capitalism to socialism could only be effected through minor social reforms, that is, gradual changes. Lenin described Fabian ideas as &quot;an extremely opportunist trend&quot; (see present edition, Vol. 13, p. 358)."/>
+                <para PARENT="footnote"/>
+                <para PARENT="footnote"/>
+                <ITEXT CH="In 1900 the Fabian Society became part of the British Labour Party. &quot;Fabian socialism&quot; is a source of the Labour Party's ideology."/>
+                <para PARENT="footnote"/>
+                <para PARENT="footnote"/>
+                <ITEXT CH="During the First World War the Fabians took a social-chauvinist stand. For Lenin's characterisation of Fabian principles, see Lenin's article &quot;British Pacifism and the British Dislike of Theory&quot; (present edition, Vol. 21, pp. 260-65). "/>
+                <trail PARENT="footnote"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.5625" YPOS="4009.6875" OwnPage="11" ItemID="704847851" PTYPE="4" WIDTH="313.4375" HEIGHT="176.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L313.438 0 L313.438 176.25 L0 176.25 L0 0 Z" copath="M0 0 L313.438 0 L313.438 176.25 L0 176.25 L0 0 Z" gXpos="141.5625" gYpos="4009.6875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="704828315"/>
+        <PAGEOBJECT XPOS="569.0625" YPOS="3736.875" OwnPage="10" ItemID="704871659" PTYPE="4" WIDTH="255" HEIGHT="181.875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255 0 L255 181.875 L0 181.875 L0 0 Z" copath="M0 0 L255 0 L255 181.875 L0 181.875 L0 0 Z" gXpos="569.0625" gYpos="3736.875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="704892539"/>
+        <PAGEOBJECT XPOS="202.96644144158" YPOS="3752.25" OwnPage="9" ItemID="704946555" PTYPE="5" WIDTH="182.53355855842" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" gXpos="-5" gYpos="689" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="155.625" YPOS="3770" OwnPage="9" ItemID="704941563" PTYPE="4" WIDTH="12.1875" HEIGHT="15.625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L12.1875 0 L12.1875 15.625 L0 15.625 L0 0 Z" copath="M0 0 L12.1875 0 L12.1875 15.625 L0 15.625 L0 0 Z" gXpos="155.625" gYpos="3770" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="*"/>
+                <trail PARENT="footnote"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="603.96644144158" YPOS="3717.25" OwnPage="10" ItemID="704966235" PTYPE="5" WIDTH="182.53355855842" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" NAMEDLST="thin_line" PLINEART="1" path="" gXpos="0" gYpos="654" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="143.5" YPOS="4307.375" OwnPage="11" ItemID="705459803" PTYPE="4" WIDTH="304.6875" HEIGHT="232.625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L304.688 0 L304.688 232.625 L0 232.625 L0 0 Z" copath="M0 0 L304.688 0 L304.688 232.625 L0 232.625 L0 0 Z" gXpos="143.5" gYpos="4307.375" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="The present, second edition is published virtually unaltered, except that section 3 had been added to Chapter II."/>
+                <para/>
+                <para/>
+                <ITEXT CH="The Author"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Moscow"/>
+                <para/>
+                <ITEXT CH="December 17, 1918 "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.5625" YPOS="3967.6875" OwnPage="11" ItemID="705451803" PTYPE="4" WIDTH="314.0625" HEIGHT="24.375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L314.063 0 L314.063 24.375 L0 24.375 L0 0 Z" copath="M0 0 L314.063 0 L314.063 24.375 L0 24.375 L0 0 Z" gXpos="139.5625" gYpos="3967.6875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Preface to the First Edition"/>
+                <trail PARENT="page_header" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="207.75" YPOS="3990.5" OwnPage="11" ItemID="705570091" PTYPE="7" WIDTH="175.25" HEIGHT="-0.25" RADRECT="-2" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L175.25 -0.25 " copath="M0 2.25 L175.25 2 L0 2.25 Z" gXpos="2.5" gYpos="662.5" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="843.214285714286" YPOS="3313.92857142857" OwnPage="10" ItemID="705573291" PTYPE="4" WIDTH="20.3571428571429" HEIGHT="18.2142857142858" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L20.3571 0 L20.3571 18.2143 L0 18.2143 L0 0 Z" copath="M0 0 L20.3571 0 L20.3571 18.2143 L0 18.2143 L0 0 Z" gXpos="843.214285714286" gYpos="3313.92857142857" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="135" YPOS="3970.71428571429" OwnPage="11" ItemID="705578587" PTYPE="4" WIDTH="26.7857142857143" HEIGHT="27.8571428571427" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L26.7857 0 L26.7857 27.8571 L0 27.8571 L0 0 Z" copath="M0 0 L26.7857 0 L26.7857 27.8571 L0 27.8571 L0 0 Z" gXpos="135" gYpos="3970.71428571429" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
