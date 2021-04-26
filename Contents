@@ -1,0 +1,8 @@
+Contents
+--------
+
+Main.c      is the source code.
+Main.out    is main.c compiled on Linux (Lubuntu 20.04) using ``$ gcc-10 -o main.out main.c``
+todump.sla  is a sample input file.
+dumped.txt  is sample output.
+
